@@ -8,7 +8,8 @@
 int main(void)
 {
     while (1) {
-        register int counter = 0;
+//        register int counter = 0;
+        int counter = 0;
         counter++;
         counter++;
         counter++;
